@@ -1,0 +1,17 @@
+# SPDX-Lisence-Identifier: Apache-2.0
+
+[package]
+name = "qsh"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.94.0"
+description = "fast feature rich posix compat shell."
+readme = "README.rst"
+homepage = "https://codeberg.org/lolp1ke/qsh"
+repository = "https://codeberg.org/lolp1ke/qsh"
+license = "Apache-2.0"
+
+[dependencies]
+# internal
+
+# external

@@ -1,0 +1,5 @@
+# SPDX-Lisence-Identifier: Apache-2.0
+
+/target
+
+.DS_Store

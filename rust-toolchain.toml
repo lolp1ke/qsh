@@ -1,0 +1,6 @@
+# SPDX-Lisence-Identifier: Apache-2.0
+
+[toolchain]
+channel = "1.94.0"
+targets = ["aarch64-apple-darwin", "x86_64-unknown-linux-musl"]
+profile = "minimal"
